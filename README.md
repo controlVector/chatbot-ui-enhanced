@@ -1,0 +1,1 @@
+# Chatbot UI Enhanced - ControlVector Frontend\n\nEnhanced Next.js frontend integrating infrastructure management with the proven chatbot-ui foundation.\n\nSee [claude.md](./claude.md) for comprehensive documentation.
